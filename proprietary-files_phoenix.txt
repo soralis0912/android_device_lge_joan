@@ -352,14 +352,6 @@ vendor/etc/hbtp/qtc800t.bin|f9f6d37c4819642531ec10b3df64b5585460efb7
 vendor/lib/libfastrpc_utf_stub.so|247a0f8ebe8b9b2b75f097bcab28caae87bb9e28
 vendor/lib64/libfastrpc_utf_stub.so|2f11d383753eb50ebbd8791361d9d61351163f85
 
-# phoenix_sprout - IOP
-vendor/lib/libqti-iopd-client.so|2ba02c8c43587fdc2a1b82408c5508a71efc4b48
-vendor/lib/vendor.qti.hardware.iop@1.0.so|dc64f13ca2fab3e46812ee46a0b342ae9276bda8
-vendor/lib/vendor.qti.hardware.iop@2.0.so|308cbb03abd0cb7768a7407311cfb0b6316d4abf
-vendor/lib64/libqti-iopd-client.so|30f8292dfd4d288d6a18ef7d3db1c9cbecdd19ba
-vendor/lib64/vendor.qti.hardware.iop@1.0.so|352b992db2575f121575ec4682ed02f8f063d4d5
-vendor/lib64/vendor.qti.hardware.iop@2.0.so|3660d91721c2737d2fe0502c8d9a97a3a814ad6f
-
 # phoenix_sprout - Latency
 system_ext/framework/vendor.qti.latency-V2.0-java.jar|239a5cf7f057d3e93c0fe7cb33ee6be088ad2aac
 system_ext/lib/vendor.qti.hardware.data.latency@1.0.so|29bd5107e05129703e39b83b2aec55a07a6c763e
