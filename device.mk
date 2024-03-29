@@ -225,7 +225,6 @@ PRODUCT_PACKAGES += \
 
 # Init
 PRODUCT_PACKAGES += \
-    hw_vari.sh \
     init.baseband.sh \
     init.class_main.sh \
     init.joan.hdmi.sh \
@@ -237,7 +236,6 @@ PRODUCT_PACKAGES += \
     init.qti.qseecomd.sh
 
 PRODUCT_PACKAGES += \
-    hw_vari.rc \
     init.lge.audio.rc \
     init.lge.bootproperty_trigger.rc \
     init.lge.vendor.on_boot.rc \
