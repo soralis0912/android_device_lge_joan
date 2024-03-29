@@ -99,8 +99,8 @@ setup_vendor "${DEVICE}" "${VENDOR}" "${ANDROID_ROOT}" false "${CLEAN_VENDOR}"
 if [ -z "${ONLY_FIRMWARE}" ]; then
     extract "${MY_DIR}/proprietary-files.txt" "${SRC}" "${KANG}" --section "${SECTION}"
     extract "${MY_DIR}/proprietary-files_phoenix.txt" "${SRC}" "${KANG}" --section "${SECTION}"
-    extract "${MY_DIR}/proprietary-files_h930.txt" "${SRC}" ${KANG} --section "${SECTION}"
-    extract "${MY_DIR}/proprietary-files_h932.txt" "${SRC}" ${KANG} --section "${SECTION}"
+    extract "${MY_DIR}/proprietary-files_h930.txt" "${SRC}" "${KANG}" --section "${SECTION}"
+    extract "${MY_DIR}/proprietary-files_h932.txt" "${SRC}" "${KANG}" --section "${SECTION}"
 fi
 
 #if [ -z "${SECTION}" ]; then
