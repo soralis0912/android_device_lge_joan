@@ -2,7 +2,6 @@ rild.libpath								u:object_r:rild_prop:s0
 ro.ims.networkinfo							u:object_r:rild_prop:s0
 
 ro.bluetooth.ftm_enabled					u:object_r:vendor_bluetooth_prop:s0
-persist.vendor.bt.a2dp_offload_cap			u:object_r:vendor_bluetooth_prop:s0
 
 ro.camera.									u:object_r:camera_prop:s0
 persist.camera.arcbeauty.					u:object_r:vendor_camera_prop:s0
