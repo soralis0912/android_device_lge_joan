@@ -390,7 +390,8 @@ PRODUCT_PACKAGES += \
     android.hardware.radio.deprecated@1.0 \
     android.hardware.radio.deprecated@1.0.vendor \
     android.system.net.netd@1.1 \
-    android.system.net.netd@1.1.vendor
+    android.system.net.netd@1.1.vendor \
+    libavservices_minijail.vendor
 
 PRODUCT_PACKAGES += \
     libprotobuf-cpp-full-3.9.1-vendorcompat \
