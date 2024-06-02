@@ -263,7 +263,7 @@ PRODUCT_PACKAGES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    android.hardware.light@2.0-service.lge
+    android.hardware.light-service.lge
 
 # Live Display
 PRODUCT_PACKAGES += \
