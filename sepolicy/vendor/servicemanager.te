@@ -1,0 +1,2 @@
+r_dir_file(servicemanager, hal_power_default);
+allow servicemanager hal_power_default:process { getattr };
