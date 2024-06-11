@@ -53,7 +53,7 @@ PRODUCT_PACKAGES += \
     audio.primary.msm8998 \
     audio.r_submix.default \
     audio.usb.default \
-    audio_amplifier.hifi_dac \
+    audio_amplifier.lge \
     libaacwrapper \
     libaudio-resampler \
     libaudioroute \

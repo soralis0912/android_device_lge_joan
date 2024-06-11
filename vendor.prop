@@ -82,6 +82,7 @@ vendor.audio.use.sw.ape.decoder=true
 vendor.audio.volume.headset.gain.depcal=true
 vendor.audio_hal.period_size=192
 vendor.voice.path.for.pcm.voip=false
+ro.hardware.audio_amplifier=lge
 
 # Audio - DAC
 persist.vendor.lge.audio.handset_rx_type=DEFAULT
@@ -97,7 +98,6 @@ vendor.lge.audio.hifi_rec.normal_lmt=0
 vendor.lge.audio.hifi_rec.offset_gain=39
 vendor.lge.fm_gain_control_headset=0.9
 vendor.lge.fm_gain_control_speaker=0.7
-ro.hardware.audio_amplifier=hifi_dac
 
 # Bluetooth
 bluetooth.device.default_name=LG V30 ThinQ
